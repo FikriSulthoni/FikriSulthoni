@@ -1,8 +1,5 @@
-## Hi there 👋
-
-**FikriSulthoni/FikriSulthoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 👋 Hola people, My name is **Muhammad Fikri Sulthoni**!
+### 🚀 Just a random Junior Data Analyst
 
 - 🔭 I’m currently working on **a few project for proofing the skill that i have**
 - 🌱 I’m currently learning about how to become a senior **Data Analyst**
