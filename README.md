@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a few project for proofing the skill that i have
-- 🌱 I’m currently learning about how to become a senior Data Analyst
+- 🔭 I’m currently working on **a few project for proofing the skill that i have**
+- 🌱 I’m currently learning about how to become a senior **Data Analyst**
 - 🤔 I’m looking for help with person with high analytics skill, so i can learn from them
-- 📫 How to reach me: You can contact me here www.linkedin.com/in/fikrisulthoni
-- 😄 Pronouns: Man. I'm a man
+- 📫 How to reach me: You can contact me here **www.linkedin.com/in/fikrisulthoni** or you can email me here **fikrisltn00@gmail.com**
+- 😄 Pronouns: Man. I'm a **man**
 - ⚡ Fun fact: I love photography. Right now,  i take photos with mobile device. Hopefully i can upgrade my gear soon!
