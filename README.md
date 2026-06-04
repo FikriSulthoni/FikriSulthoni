@@ -1,9 +1,18 @@
+![Banner](https://vercel.app)
+
 # 👋 Hola people, My name is **Muhammad Fikri Sulthoni**!
 ### 🚀 Just a random Junior Data Analyst
 
-- 🔭 I’m currently working on **a few project for proofing the skill that i have**
-- 🌱 I’m currently learning about how to become a senior **Data Analyst**
-- 🤔 I’m looking for help with person with high analytics skill, so i can learn from them
-- 📫 How to reach me: You can contact me here **www.linkedin.com/in/fikrisulthoni** or you can email me here **fikrisltn00@gmail.com**
-- 😄 Pronouns: Man. I'm a **man**
-- ⚡ Fun fact: I love photography. Right now,  i take photos with mobile device. Hopefully i can upgrade my gear soon!
+## 🛠 Skills
+#### Analytics Skills
+#### MySql
+#### Tableau
+#### Python (Beginner Level).
+#### I'm Also have a few skills like frontend website, Mobile Photography & photo editor (Photoshop  and Lightroom).
+
+## Contact Me
+### You can contact me here:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikrisulthoni/)
+
+
+
