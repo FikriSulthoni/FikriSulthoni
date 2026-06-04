@@ -1,5 +1,3 @@
-![Banner](https://vercel.app)
-
 # 👋 Hola people, My name is **Muhammad Fikri Sulthoni**!
 ### 🚀 Just a random Junior Data Analyst
 
